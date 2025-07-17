@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Bhushan Ingale 👋
 
-<!--
-**ingalebhushan/ingalebhushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent Graduate in Artificial Intelligence & Data Science  
+🚀 Aspiring Backend & Open Source Developer | Learning in Public  
+💼 Upcoming Software Developer @ Agnikul Cosmos
 
-Here are some ideas to get you started:
+🔧 Tech Stack:
+Python · Java · JavaScript · Node.js · PHP · MySQL · MongoDB · Git · Docker · Streamlit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Currently Learning:
+- WordPress Plugin Development
+- Docker & CI/CD (GitHub Actions)
+- Contributing to Open Source Projects
+
+📫 Connect with me:
+- 💌 [E-mail](ingalebhushan18@gmail.com)
+- 🗂️ [My GitHub Portfolio](https://github.com/ingalebhushan)
+
+⚡ Fun Fact: I was the best defender in Kabaddi for 8 years before I switched to coding.
